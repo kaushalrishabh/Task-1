@@ -7,5 +7,5 @@
 	<p> HELLO WORLD </p>
 	<p align ="center"> NEW LINE </p>
 	<p> THIRD COMMIT </p>
-<body>
+</body>
 </html>
