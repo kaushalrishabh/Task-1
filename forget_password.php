@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-			<title> Login :: Log in to your Account	</title>
+			<title> Forget Password	</title>
 			<link rel = "stylesheet" type = "text/css" href = "Bootstrap/css/bootstrap.css">
 	</head>
 	<body>	
 		<div class = "container">
 			<div class = "jumbotron">
-				<h1 class = "text-centre"> LOGIN </h1>
+					<h1 class = "text-centre"> Forget Password </h1>
 			</div>			
 				<div class = "row">
 					<div class = "col-md-4"> </div> 
@@ -18,18 +18,7 @@
 									<input type = "email" class ="form-control" >
 								</div>
 								<div class = "form-group">
-									<label> Password </label>
-									<input type = "password" class ="form-control" >
-								</div>
-								<div class = "form-group">
 									<input type = "submit" value ="LOGIN" class ="btn btn-primary form-control"> 
-								</div>
-								<div class= "form-group">
-									<label> <a href="forget_password.php"> Forget Password ? </a> </label>
-								</div>
-								<div>
-									<label>	Need a Account! </label>
-									<a href ="SignUp.php" class="btn btn-primary">Sign Up	</a>
 								</div>
 						</form>
 					</div>
